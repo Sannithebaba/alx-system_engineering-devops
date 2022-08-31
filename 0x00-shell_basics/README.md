@@ -3,3 +3,4 @@ list current directory
 change working directory
 display current directory in long format
 display hidden files
+display current directory contents
