@@ -3,3 +3,4 @@ who am i
 groups
 empty
 execute
+multiple permission
