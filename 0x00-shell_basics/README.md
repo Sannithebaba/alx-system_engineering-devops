@@ -5,3 +5,4 @@ display current directory in long format
 display hidden files
 display current directory contents
 my first directory
+betty in my first directory
