@@ -7,3 +7,4 @@ multiple permission
 everybody
 new owner
 james bond
+john doe
