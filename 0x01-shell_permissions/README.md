@@ -4,3 +4,4 @@ groups
 empty
 execute
 multiple permission
+everybody
