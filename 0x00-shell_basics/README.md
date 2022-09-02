@@ -7,3 +7,4 @@ display current directory contents
 my first directory
 betty in my first directory
 delete betty
+delete my first directory
