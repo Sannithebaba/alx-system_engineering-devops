@@ -10,3 +10,4 @@ delete betty
 delete my first directory
 back to the future
 list files
+file name
