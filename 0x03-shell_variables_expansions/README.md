@@ -4,3 +4,4 @@ path
 path to success
 global variables
 local variables
+create local variable
