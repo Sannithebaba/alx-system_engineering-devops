@@ -1,2 +1,3 @@
 alias
 hello world
+path
