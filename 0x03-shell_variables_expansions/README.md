@@ -11,3 +11,4 @@ divide and rule
 breath love
 binary to decimal
 combination
+float
