@@ -7,3 +7,4 @@ first line
 third line
 best school
 save directory
+duplicate last line
